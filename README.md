@@ -1,6 +1,6 @@
 # festcms2.0
 
-This is a fest management system backend made on Django for Aarohan 2020. 
+This is a fest management system backend made on Django for Aarohan 2020 by Team Aavishkar. 
 
 To run on your local machine :
 
